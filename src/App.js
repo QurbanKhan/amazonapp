@@ -1,12 +1,11 @@
 import React from 'react';
 import './App.css';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className="app">
-      <h1>Qurban Khan</h1>
-      <p>Qurban khna</p>
-      <p>an other test for you</p>
+      <Header />
       {/* header */}
       {/* body */}
     </div>
