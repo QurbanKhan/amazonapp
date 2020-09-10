@@ -6,6 +6,7 @@ function App() {
     <div className="app">
       <h1>Qurban Khan</h1>
       <p>Qurban khna</p>
+      <p>an other test for you</p>
       {/* header */}
       {/* body */}
     </div>
