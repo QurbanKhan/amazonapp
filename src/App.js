@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="app">
       <h1>Qurban Khan</h1>
+      <p>Qurban khna</p>
       {/* header */}
       {/* body */}
     </div>
